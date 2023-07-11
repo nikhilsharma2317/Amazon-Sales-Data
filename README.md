@@ -5,7 +5,7 @@ This project focuses on the analysis of Amazon sales data. It merges data from m
 
 ## Files in the Repository
 
-- `Amazon Sales Data Updated.ipynb`: This is the Jupyter notebook containing the data analysis. It includes operations for merging and cleaning data, and carrying out exploratory data analysis.
+- `Amazon Sales Data.ipynb`: This is the Jupyter notebook containing the data analysis. It includes operations for merging and cleaning data, and carrying out exploratory data analysis.
 - `requirements_Amazon_Sales_Data.txt`: This file lists the Python packages required to run the notebook.
 
 ## Installation & Usage
